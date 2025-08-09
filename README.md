@@ -59,5 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/form-builder](https://github.com/yourusername/form-builder)Ww
+Sohail Shaikh @shaikhsohail1822@gmail.com
