@@ -1,7 +1,7 @@
-import { Routes, Route, Navigate } from 'react-router-dom'
-import CreateFormPage from '../features/formBuilder/pages/CreateFormPage.tsx'
-import PreviewFormPage from '../features/formBuilder/pages/PreviewFormPage.tsx'
-import MyFormsPage from '../features/formBuilder/pages/MyFormsPage.tsx'
+import { Routes, Route, Navigate } from "react-router-dom";
+import CreateFormPage from "../features/formBuilder/pages/CreateFormPage";
+import PreviewFormPage from "../features/formBuilder/pages/PreviewFormPage";
+import MyFormsPage from "../features/formBuilder/pages/MyFormsPage";
 
 export default function AppRoutes() {
   return (
@@ -11,5 +11,5 @@ export default function AppRoutes() {
       <Route path="/preview" element={<PreviewFormPage />} />
       <Route path="/myforms" element={<MyFormsPage />} />
     </Routes>
-  )
+  );
 }
